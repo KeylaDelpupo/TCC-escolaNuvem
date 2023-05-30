@@ -1,16 +1,14 @@
+#inicio {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
 
-
-    #inicio {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-    }
-
-    #inicio img {
-        margin-right: 10px;
-        width: 50%;
-        height: auto;
-    }
+#inicio img {
+    margin-right: 10px;
+    width: 50%;
+    height: auto;
+}
 
 
 
@@ -251,7 +249,7 @@ hr {
 
 #daniel {
     background-color: #916958;
-    
+
 }
 
 #daniel h2 ul li {
